@@ -1,6 +1,6 @@
 **Upload Temp Files**
 ----
-Upload one or more files to a temp folder. Useful for message sending by broadcast.
+Carrega um ou mais arquivos temporários, esses arquivos não terão nenhuma relação com um diretório específico ou conversa. Normalmente utilizado para envio como anexo de uma mensagem posteriormente.
 
 * **URL**
    
@@ -21,8 +21,8 @@ Upload one or more files to a temp folder. Useful for message sending by broadca
 * **Headers**
 
    ```
-   AUTHORIZATION: "Bearer :jwt_token"
-   X-ACTING-PROFILE: :acting_profile_id
+   AUTHORIZATION: "Bearer {API_TOKEN}"
+   X-ACTING-PROFILE: {PROFILE_ID}
    ```
 
 * **Success Response:** 
