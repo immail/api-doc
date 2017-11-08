@@ -14,12 +14,13 @@ _Se você ainda não possue o seu TOKEN DE AUTENTICAÇÃO, entre em contato cono
 
 ## Endpoints
 
+### ARQUIVOS
 
-### FILES
+- **[Upload de arquivo temporário](v1/files/upload-temp-file.md)**
 
-- **[/foodservices/menu](v2/foodservices/menu.md)**
-- **[/foodservices/notes](v2/foodservices/notes.md)**
-- **[/foodservices/diets](v2/foodservices/diets.md)**
+### MENSAGENS
+
+- **[Enviar mensagem privada](v1/messages/send-private-message.md)**
 
 ### Suporte ou Contato
 
