@@ -1,11 +1,11 @@
 **Enviar mensagem privada**
 ----
-Envia uma mensagem privada para um ou mais destinatários.
+> Envia uma mensagem privada para um ou mais destinatários.
 O destino é o e-mail de um usuário já cadastrado na base de dados do Immail.
 
 * **Enviar mensagem com arquivo em anexo**
 
-Para enviar um arquivo em anexo, será nescessário fazer o upload do mesmo previamente e obter o seu ID.<br>
+> Para enviar um arquivo em anexo, será nescessário fazer o upload do mesmo previamente e obter o seu ID.<br>
 **[# Saiba como fazer o upload de arquivo temporário](v2/files/upload-temp.files.md)**
 
 * **URL**
