@@ -12,6 +12,15 @@ https://api.immail.com.br/
 Para execução de qualquer chamada o cliente deverá fornecedor o 'TOKEN DE AUTENTICAÇÃO' e o 'ID DO PERFIL'.
 _Se você ainda não possue o seu TOKEN DE AUTENTICAÇÃO, entre em contato conosco.
 
+## Endpoints
+
+
+### FILES
+
+- **[/foodservices/menu](v2/foodservices/menu.md)**
+- **[/foodservices/notes](v2/foodservices/notes.md)**
+- **[/foodservices/diets](v2/foodservices/diets.md)**
+
 ### Suporte ou Contato
 
 Se tiver algum problema, solicitação ou sugestão, por favor, entre em contato conosco: support@immail.com.br via e-mail ou pelo próprio aplicativo.
