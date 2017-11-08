@@ -9,8 +9,8 @@ https://api.immail.com.br/
 ```
 ## Segurança
 
-Para execução de qualquer chamada o cliente deverá fornecedor o 'TOKEN DE AUTENTICAÇÃO' e o 'ID DO PERFIL'.
-_Se você ainda não possue o seu TOKEN DE AUTENTICAÇÃO, entre em contato conosco.
+Para execução de qualquer chamada o cliente deverá fornecedor o 'TOKEN DE AUTENTICAÇÃO' e o 'ID DO PERFIL'.<br>
+_Se você ainda não possue o seu TOKEN DE AUTENTICAÇÃO, entre em contato conosco._
 
 ## Endpoints
 
