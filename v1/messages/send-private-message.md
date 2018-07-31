@@ -1,7 +1,7 @@
 **Enviar mensagem privada**
 ----
 > Envia uma mensagem privada para um ou mais destinatários.
-O destino é o e-mail de um usuário já cadastrado na base de dados do Immail.
+O destino é o e-mail de um usuário já cadastrado na base de dados do imMail.
 
 * **Mensagem com arquivo em anexo**
 
