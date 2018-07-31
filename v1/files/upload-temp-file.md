@@ -1,3 +1,5 @@
+**[Home](https://myinfoshare-user.github.io/api-doc)** / Upload de Arquivo Temporário
+
 **Upload de arquivos temporários**
 ----
 Carrega um ou mais arquivos temporários, esses arquivos não terão nenhuma relação com um diretório específico ou conversa. Normalmente utilizado para envio como anexo de uma mensagem posteriormente.
