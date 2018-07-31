@@ -36,7 +36,6 @@ O destino é o e-mail de um usuário já cadastrado na base de dados do Immail.
 
    ```
    AUTHORIZATION: "Bearer {API_TOKEN}"
-   X-ACTING-PROFILE: {PROFILE_ID}
    CONTENT-TYPE: application/json
    ```
 
