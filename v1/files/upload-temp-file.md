@@ -22,7 +22,6 @@ Carrega um ou mais arquivos temporários, esses arquivos não terão nenhuma rel
 
    ```
    AUTHORIZATION: "Bearer {API_TOKEN}"
-   X-ACTING-PROFILE: {PROFILE_ID}
    ```
 
 * **Success Response:** 
