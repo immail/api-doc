@@ -1,3 +1,5 @@
+**[Home](https://myinfoshare-user.github.io/api-doc)**
+
 **Enviar mensagem privada**
 ----
 > Envia uma mensagem privada para um ou mais destinatários.
