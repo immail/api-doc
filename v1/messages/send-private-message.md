@@ -7,6 +7,7 @@ O destino é o e-mail de um usuário já cadastrado na base de dados do imMail.
 
 > Para enviar um arquivo em anexo, será nescessário fazer o upload do mesmo previamente e obter o seu ID.<br>
 **[# Saiba como fazer o upload de arquivo temporário](../v1/files/upload-temp.files.md)**
+- **[Upload de arquivo temporário](./v1/files/upload-temp-file.md)**
 
 * **URL**
    
