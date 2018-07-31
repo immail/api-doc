@@ -1,4 +1,4 @@
-**[Home](https://myinfoshare-user.github.io/api-doc)** / Enviar Mensagem Privada
+**[Home](https://myinfoshare-user.github.io/api-doc)** _/ Enviar Mensagem Privada_
 
 **Enviar mensagem privada**
 ----
