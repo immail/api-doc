@@ -30,7 +30,7 @@ The destination is the email address of a user already registered in the imMail 
             "test3@example.com"
       ],
       "text":    "Happy Birthday",
-      "file_id": { FILE_ID } (ID obtido após enviar um arquivo temporário)
+      "file_id": { FILE_ID } (ID obtained after uploading a temporary file)
     }
   ```
 
