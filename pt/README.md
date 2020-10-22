@@ -5,7 +5,7 @@
 > Todas as chamadas serão feitas utilizando a seguinte URL em conjunto com os parametros solicitados para cada serviço.
 
 ```
-https://api.immail.com.br/
+https://api.immail.ca/
 ```
 ## Segurança
 

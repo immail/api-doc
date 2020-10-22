@@ -1,14 +1,14 @@
-**[Home](https://myinfoshare-user.github.io/api-doc)** / Enviar Mensagem Privada
+**[Home](https://immail.github.io/api-doc)** / Send Private Message
 
-**Enviar mensagem privada**
+**Send private message**
 ----
-> Envia uma mensagem privada para um ou mais destinatários.
-O destino é o e-mail de um usuário já cadastrado na base de dados do imMail.
+> Send a private message to one or more users.
+The destination is the email address of a user already registered in the imMail database.
 
-* **Mensagem com arquivo em anexo**
+* **Message with file attached**
 
-> Para enviar um arquivo em anexo, será nescessário fazer o upload do mesmo previamente e obter o seu ID.<br>
-**[# Saiba como fazer o upload de arquivo temporário](https://myinfoshare-user.github.io/api-doc/v1/files/upload-temp-file.html)**
+> To send a file as an attachment, you will need to upload it beforehand and get your ID (file_id).<br>
+**[# Learn how to upload temporary file](https://immail.github.io/api-doc/en/v1/files/upload-temp-file.html)**
 
 * **URL**
    
@@ -54,4 +54,3 @@ O destino é o e-mail de um usuário já cadastrado na base de dados do imMail.
   * **Code:** 401 UNAUTHORIZED <br />
     **Content:** `{ messages: ['You don\'t have authorization.'] }`
 
-* **Notes:**
