@@ -1,4 +1,4 @@
-**[Home](https://immail.github.io/api-doc)** / Send Private Message
+**[Home](https://immail.github.io/api-doc/en)** / Send Private Message
 
 **Send private message**
 ----
